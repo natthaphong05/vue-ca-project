@@ -1,0 +1,520 @@
+[
+    {
+      "name": "ชุดครัว รุ่นเบลินด้า ขนาด 180 ซม.",
+      "url_key": "1",
+      "thumbnail": {
+        "url": "https://img2.pic.in.th/pic/img-1.jpeg",
+        "label": "label-1"
+      },
+      "base_image": {
+        "url": "https://img2.pic.in.th/pic/base-1.jpeg",
+        "label": "base-1"
+      },
+      "price": {
+        "amount": {
+          "value": 18990
+        }
+      },
+      "specialPrice": {
+        "amount": {
+          "value": 8990
+        }
+      }
+    },
+    {
+      "name": "ตู้วางทีวี รุ่นโมสท",
+      "url_key": "product-url-2",
+      "thumbnail": {
+        "url": "https://img2.pic.in.th/pic/img-2.jpeg",
+        "label": "label-2"
+      },
+      "base_image": {
+        "url": "https://img2.pic.in.th/pic/base-2.jpeg",
+        "label": "base-2"
+      },
+      "price": {
+        "amount": {
+          "value": 2990
+        }
+      },
+      "specialPrice": {
+        "amount": {
+          "value": 2390
+        }
+      }
+    },
+    {
+      "name": "ตู้วางรองเท้า รุ่นเพซโซ่ ขนาด 60 ซม.",
+      "url_key": "product-url-3",
+      "thumbnail": {
+        "url": "https://img5.pic.in.th/file/secure-sv1/img-3.jpeg",
+        "label": "label-3"
+      },
+      "base_image": {
+        "url": "https://img2.pic.in.th/pic/base-3.jpeg",
+        "label": "base-3"
+      },
+      "price": {
+        "amount": {
+          "value": 4590
+        }
+      },
+      "specialPrice": {
+        "amount": {
+          "value": 1890
+        }
+      }
+    },
+    {
+      "name": "โซฟาปรับนอน รุ่นเวนดี้",
+      "url_key": "product-url-4",
+      "thumbnail": {
+        "url": "https://img2.pic.in.th/pic/img-4.jpeg",
+        "label": "label-4"
+      },
+      "base_image": {
+        "url": "https://img5.pic.in.th/file/secure-sv1/base-4.jpeg",
+        "label": "base-4"
+      },
+      "price": {
+        "amount": {
+          "value": 8990
+        }
+      },
+      "specialPrice": {
+        "amount": {
+          "value": 7990
+        }
+      }
+    },
+    {
+      "name": "โซฟาผ้า L-shape รุ่นจิม",
+      "url_key": "product-url-5",
+      "thumbnail": {
+        "url": "https://img2.pic.in.th/pic/img-5.jpeg",
+        "label": "label-5"
+      },
+      "base_image": {
+        "url": "https://img5.pic.in.th/file/secure-sv1/base-5.jpeg",
+        "label": "base-5"
+      },
+      "price": {
+        "amount": {
+          "value": 13990
+        }
+      },
+      "specialPrice": {
+        "amount": {
+          "value": 6990
+        }
+      }
+    },
+    {
+      "name": "โซฟาผ้าปรับระดับไฟฟ้า 1 ที่นั่ง รุ่นคาลลิสโต้",
+      "url_key": "product-url-6",
+      "thumbnail": {
+        "url": "https://img5.pic.in.th/file/secure-sv1/img-6.jpeg",
+        "label": "label-6"
+      },
+      "base_image": {
+        "url": "https://img2.pic.in.th/pic/base-6.jpeg",
+        "label": "base-6"
+      },
+      "price": {
+        "amount": {
+          "value": 17900
+        }
+      },
+      "specialPrice": {
+        "amount": {
+          "value": 15900
+        }
+      }
+    },
+    {
+      "name": "ชุดห้องนอน รุ่นแชมป์ (เตียง, ตู้เสื้อผ้า, โต๊ะเครื่องแป้งพร้อมสตูล) - สีไลท์ วู้ด/ดำ",
+      "url_key": "product-url-7",
+      "thumbnail": {
+        "url": "https://img5.pic.in.th/file/secure-sv1/img-7.jpeg",
+        "label": "label-7"
+      },
+      "base_image": {
+        "url": "https://img5.pic.in.th/file/secure-sv1/base-7.jpeg",
+        "label": "base-7"
+      },
+      "price": {
+        "amount": {
+          "value": 14900
+        }
+      },
+      "specialPrice": {
+        "amount": {
+          "value": 7990
+        }
+      }
+    },
+    {
+      "name": "ตู้ 4 ลิ้นชัก รุ่นเทียน่า",
+      "url_key": "product-url-8",
+      "thumbnail": {
+        "url": "https://img2.pic.in.th/pic/img-8.jpeg",
+        "label": "label-8"
+      },
+      "base_image": {
+        "url": "https://img5.pic.in.th/file/secure-sv1/base-8.jpeg",
+        "label": "base-8"
+      },
+      "price": {
+        "amount": {
+          "value": 2590
+        }
+      },
+      "specialPrice": {
+        "amount": {
+          "value": 1990
+        }
+      }
+    },
+    {
+      "name": "ที่นอน รุ่นคูลลิซึ่ม - สีขาว/เทา",
+      "url_key": "product-url-9",
+      "thumbnail": {
+        "url": "https://img5.pic.in.th/file/secure-sv1/img-9.jpeg",
+        "label": "label-9"
+      },
+      "base_image": {
+        "url": "https://img2.pic.in.th/pic/base-9.jpeg",
+        "label": "base-9"
+      },
+      "price": {
+        "amount": {
+          "value": 12900
+        }
+      },
+      "specialPrice": {
+        "amount": {
+          "value": 4990
+        }
+      }
+    },
+    {
+      "name": "โซฟาผ้า 3 ที่นั่ง รุ่นออกัสต้า",
+      "url_key": "product-url-10",
+      "thumbnail": {
+        "url": "https://img5.pic.in.th/file/secure-sv1/img-10.jpeg",
+        "label": "label-10"
+      },
+      "base_image": {
+        "url": "https://img5.pic.in.th/file/secure-sv1/base-10.jpeg",
+        "label": "base-10"
+      },
+      "price": {
+        "amount": {
+          "value": 12900
+        }
+      },
+      "specialPrice": {
+        "amount": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "name": "โซฟาผ้า L-shape รุ่นดาฟเน่",
+      "url_key": "product-url-11",
+      "thumbnail": {
+        "url": "https://img2.pic.in.th/pic/img-114cee197eba9b7999.jpeg",
+        "label": "label-11"
+      },
+      "base_image": {
+        "url": "https://img2.pic.in.th/pic/base-11.jpeg",
+        "label": "base-11"
+      },
+      "price": {
+        "amount": {
+          "value": 12900
+        }
+      }
+    },
+    {
+      "name": "โซฟาหนังเทียมปรับระดับ 1 ที่นั่ง รุ่นเลมม่า",
+      "url_key": "product-url-12",
+      "thumbnail": {
+        "url": "https://img5.pic.in.th/file/secure-sv1/img-12.jpeg",
+        "label": "label-12"
+      },
+      "base_image": {
+        "url": "https://img5.pic.in.th/file/secure-sv1/base-12.jpeg",
+        "label": "base-12"
+      },
+      "price": {
+        "amount": {
+          "value": 10900
+        }
+      },
+      "specialPrice": {
+        "amount": {
+          "value": 5990
+        }
+      }
+    },
+    {
+      "name": "ชุดครัว รุ่นเบลินด้า ขนาด 180 ซม.",
+      "url_key": "product-url-13",
+      "thumbnail": {
+        "url": "https://img2.pic.in.th/pic/img-1.jpeg",
+        "label": "label-13"
+      },
+      "base_image": {
+        "url": "https://img2.pic.in.th/pic/base-1.jpeg",
+        "label": "base-13"
+      },
+      "price": {
+        "amount": {
+          "value": 18990
+        }
+      },
+      "specialPrice": {
+        "amount": {
+          "value": 8990
+        }
+      }
+    },
+    {
+      "name": "ตู้วางทีวี รุ่นโมสท",
+      "url_key": "product-url-14",
+      "thumbnail": {
+        "url": "https://img2.pic.in.th/pic/img-2.jpeg",
+        "label": "label-14"
+      },
+      "base_image": {
+        "url": "https://img2.pic.in.th/pic/base-2.jpeg",
+        "label": "base-14"
+      },
+      "price": {
+        "amount": {
+          "value": 2990
+        }
+      },
+      "specialPrice": {
+        "amount": {
+          "value": 2390
+        }
+      }
+    },
+    {
+      "name": "ตู้วางรองเท้า รุ่นเพซโซ่ ขนาด 60 ซม.",
+      "url_key": "product-url-15",
+      "thumbnail": {
+        "url": "https://img5.pic.in.th/file/secure-sv1/img-3.jpeg",
+        "label": "label-15"
+      },
+      "base_image": {
+        "url": "https://img2.pic.in.th/pic/base-3.jpeg",
+        "label": "base-15"
+      },
+      "price": {
+        "amount": {
+          "value": 4590
+        }
+      },
+      "specialPrice": {
+        "amount": {
+          "value": 1890
+        }
+      }
+    },
+    {
+      "name": "โซฟาปรับนอน รุ่นเวนดี้",
+      "url_key": "product-url-16",
+      "thumbnail": {
+        "url": "https://img2.pic.in.th/pic/img-4.jpeg",
+        "label": "label-16"
+      },
+      "base_image": {
+        "url": "https://img5.pic.in.th/file/secure-sv1/base-4.jpeg",
+        "label": "base-16"
+      },
+      "price": {
+        "amount": {
+          "value": 8990
+        }
+      },
+      "specialPrice": {
+        "amount": {
+          "value": 7990
+        }
+      }
+    },
+    {
+      "name": "โซฟาผ้า L-shape รุ่นจิม",
+      "url_key": "product-url-17",
+      "thumbnail": {
+        "url": "https://img2.pic.in.th/pic/img-5.jpeg",
+        "label": "label-17"
+      },
+      "base_image": {
+        "url": "https://img5.pic.in.th/file/secure-sv1/base-5.jpeg",
+        "label": "base-17"
+      },
+      "price": {
+        "amount": {
+          "value": 13990
+        }
+      },
+      "specialPrice": {
+        "amount": {
+          "value": 6990
+        }
+      }
+    },
+    {
+      "name": "โซฟาผ้าปรับระดับไฟฟ้า 1 ที่นั่ง รุ่นคาลลิสโต้",
+      "url_key": "product-url-18",
+      "thumbnail": {
+        "url": "https://img5.pic.in.th/file/secure-sv1/img-6.jpeg",
+        "label": "label-18"
+      },
+      "base_image": {
+        "url": "https://img2.pic.in.th/pic/base-6.jpeg",
+        "label": "base-18"
+      },
+      "price": {
+        "amount": {
+          "value": 17900
+        }
+      },
+      "specialPrice": {
+        "amount": {
+          "value": 15900
+        }
+      }
+    },
+    {
+      "name": "ชุดห้องนอน รุ่นแชมป์ (เตียง, ตู้เสื้อผ้า, โต๊ะเครื่องแป้งพร้อมสตูล) - สีไลท์ วู้ด/ดำ",
+      "url_key": "product-url-19",
+      "thumbnail": {
+        "url": "https://img5.pic.in.th/file/secure-sv1/img-7.jpeg",
+        "label": "label-19"
+      },
+      "base_image": {
+        "url": "https://img5.pic.in.th/file/secure-sv1/base-7.jpeg",
+        "label": "base-19"
+      },
+      "price": {
+        "amount": {
+          "value": 14900
+        }
+      },
+      "specialPrice": {
+        "amount": {
+          "value": 7990
+        }
+      }
+    },
+    {
+      "name": "ตู้ 4 ลิ้นชัก รุ่นเทียน่า",
+      "url_key": "product-url-20",
+      "thumbnail": {
+        "url": "https://img2.pic.in.th/pic/img-8.jpeg",
+        "label": "label-20"
+      },
+      "base_image": {
+        "url": "https://img5.pic.in.th/file/secure-sv1/base-8.jpeg",
+        "label": "base-20"
+      },
+      "price": {
+        "amount": {
+          "value": 2590
+        }
+      },
+      "specialPrice": {
+        "amount": {
+          "value": 1990
+        }
+      }
+    },
+    {
+      "name": "ที่นอน รุ่นคูลลิซึ่ม - สีขาว/เทา",
+      "url_key": "product-url-21",
+      "thumbnail": {
+        "url": "https://img5.pic.in.th/file/secure-sv1/img-9.jpeg",
+        "label": "label-21"
+      },
+      "base_image": {
+        "url": "https://img2.pic.in.th/pic/base-9.jpeg",
+        "label": "base-21"
+      },
+      "price": {
+        "amount": {
+          "value": 12900
+        }
+      },
+      "specialPrice": {
+        "amount": {
+          "value": 4990
+        }
+      }
+    },
+    {
+      "name": "โซฟาผ้า 3 ที่นั่ง รุ่นออกัสต้า",
+      "url_key": "product-url-22",
+      "thumbnail": {
+        "url": "https://img5.pic.in.th/file/secure-sv1/img-10.jpeg",
+        "label": "label-22"
+      },
+      "base_image": {
+        "url": "https://img5.pic.in.th/file/secure-sv1/base-10.jpeg",
+        "label": "base-22"
+      },
+      "price": {
+        "amount": {
+          "value": 12900
+        }
+      },
+      "specialPrice": {
+        "amount": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "name": "โซฟาผ้า L-shape รุ่นดาฟเน่",
+      "url_key": "product-url-23",
+      "thumbnail": {
+        "url": "https://img2.pic.in.th/pic/img-114cee197eba9b7999.jpeg",
+        "label": "label-23"
+      },
+      "base_image": {
+        "url": "https://img2.pic.in.th/pic/base-11.jpeg",
+        "label": "base-23"
+      },
+      "price": {
+        "amount": {
+          "value": 12900
+        }
+      }
+    },
+    {
+      "name": "โซฟาหนังเทียมปรับระดับ 1 ที่นั่ง รุ่นเลมม่า",
+      "url_key": "product-url-24",
+      "thumbnail": {
+        "url": "https://img5.pic.in.th/file/secure-sv1/img-12.jpeg",
+        "label": "label-24"
+      },
+      "base_image": {
+        "url": "https://img5.pic.in.th/file/secure-sv1/base-12.jpeg",
+        "label": "base-24"
+      },
+      "price": {
+        "amount": {
+          "value": 10900
+        }
+      },
+      "specialPrice": {
+        "amount": {
+          "value": 5990
+        }
+      }
+    }
+  ]
